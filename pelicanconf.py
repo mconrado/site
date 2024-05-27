@@ -3,8 +3,7 @@ SITENAME = 'mconrado dev & tech'
 SITEURL = ""
 
 PATH = "content"
-THEME = "/home/mconrado/pelican-themes/hyde"
-#TIMEZONE = 'America/Sao_Paulo'
+TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
