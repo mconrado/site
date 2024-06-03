@@ -1,6 +1,6 @@
 AUTHOR = 'Márcio Conrado'
 SITENAME = 'mconrado dev & tech'
-SITEURL = ""
+SITEURL = "site/"
 
 PATH = "content"
 TIMEZONE = 'America/Sao_Paulo'
